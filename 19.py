@@ -1,11 +1,13 @@
-n = int(input('Ingrese un numero impar'))
-
-i = 0
-j = 0
+n = 7
 linea = ''
-while i < n:
-    i = i + 1
-    while j < n:
-        j = j + 1
-        linea = str(i) + linea
-    print (linea)
+valor = 0
+for i in range(n):
+    if i <= (n-1)/2:
+        for j in range(n):
+            if j <= (n-1)/2:
+                valor = valor + 1
+    else:
+        valor = valor - 1
+    linea = linea + str(valor)
+
+print(linea)

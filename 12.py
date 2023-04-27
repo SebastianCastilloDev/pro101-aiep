@@ -1,10 +1,10 @@
+"""Programa 12"""
+
 # 12. Escribe un programa que lea tres números enteros y devuelva el mayor de los tres
 
 numero1 = int(input('numero1: '))
 numero2 = int(input('numero2: '))
 numero3 = int(input('numero3: '))
-
-mayor = None
 
 if numero1 > numero2:
     mayor = numero1

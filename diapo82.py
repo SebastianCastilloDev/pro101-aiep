@@ -1,7 +1,7 @@
 n = int(input('Ingrese un numero: '))
 linea = ''
-caracter = '1'
+caracter = '*'
 
 for i in range(n):
     linea = linea + caracter
-    print (linea)
+    print(linea)
