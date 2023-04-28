@@ -1,5 +1,5 @@
 # 7. La fecha de cualquier Domingo de Pascua se calcula de la siguiente forma:
-# * Sea X el año para el que se quiere calcular la fecha. 
+# * Sea X el año para el que se quiere calcular la fecha.
 # * Sea A el resto de la división de X entre 19
 # * Sea B el resto de la división de X entre 4
 # * Sea C el resto de la división de X entre 7
@@ -18,8 +18,9 @@ e = (2 * b + 4 * c + 6 * d + 5) % 7
 
 dia = 22 + d + e
 
-if (dia <= 31):
-    print('El día de pascua es el ', dia , ' de marzo')
+if dia <= 31:
+    print('El dia del domingo de pascua del año',
+          anio, 'es el', dia, 'de marzo')
 else:
-    dia = dia - 31
-    print('El día de pascua es el ', dia , ' de abril')
+    print('El dia del domingo de pascua del año',
+          anio, 'es el', dia-31, 'de abril')
