@@ -43,10 +43,10 @@ for archivo in lista_archivos:
 
         contenido_primera_linea = archivo_leido.readline()
         if contenido_primera_linea:
-            texto = "[" + archivo + "]" + \
+            texto = "* [" + archivo + "]" + \
                 "(/Youtube-ejercicios/" + archivo + ")" + \
                 ': ' + contenido_primera_linea
-            texto_readme = texto_readme + texto + '\r'
+            texto_readme = texto_readme + texto
         archivo_leido.close()
 
 # print(lista_archivos)
