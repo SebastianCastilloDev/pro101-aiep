@@ -1,4 +1,4 @@
-# mostrar la version de opytjhon
+# Ejercicio 1: Mostrar la version de opytjhon
 
 import sys
 

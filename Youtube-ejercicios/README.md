@@ -15,14 +15,14 @@ Por tanto se debe colocar la descripcion del ejercicio en la primera linea de ca
 ## Lista de ejercicios:
 
 
-* [0001.py](/Youtube-ejercicios/0001.py): # mostrar la version de opytjhon
-* [0002.py](/Youtube-ejercicios/0002.py): # uso de print
-* [0003.py](/Youtube-ejercicios/0003.py): # fecha y hora delk sistema
+* [0001.py](/Youtube-ejercicios/0001.py): # Ejercicio 1: Mostrar la version de opytjhon
+* [0002.py](/Youtube-ejercicios/0002.py): # Ejercicio 2: Uso de print
+* [0003.py](/Youtube-ejercicios/0003.py): # Ejercicios 3: Fecha y hora del sistema
 * [0004.py](/Youtube-ejercicios/0004.py): # area circulo
 * [0005.py](/Youtube-ejercicios/0005.py): # representacion inversa de una cadena
 * [0006.py](/Youtube-ejercicios/0006.py): # obtener un conjunto de numeros separados por coma y crear una lista
 * [0007.py](/Youtube-ejercicios/0007.py): # obtener la extension de un nombre de archivo
-* [0008.py](/Youtube-ejercicios/0008.py): lenguajes = ['a', 'b', 'c', 'd']
+* [0008.py](/Youtube-ejercicios/0008.py): # Ejercicio 8: Obtener el primer y el ultimo elemento de una lista
 * [0009.py](/Youtube-ejercicios/0009.py): # mostrar la fecha de un evento almacenada en una tupla
 * [0010.py](/Youtube-ejercicios/0010.py): # calcular n+ nn + nnn
 * [0011.py](/Youtube-ejercicios/0011.py): # obtener la doc de fx incorporadas

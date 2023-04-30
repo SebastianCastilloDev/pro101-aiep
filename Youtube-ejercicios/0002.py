@@ -1,4 +1,4 @@
-# uso de print
+# Ejercicio 2: Uso de print
 
 print('este es un ejemplo basico')
 print('este es un ejemplo basico', end=" ")
