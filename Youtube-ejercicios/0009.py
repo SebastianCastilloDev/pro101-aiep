@@ -1,4 +1,3 @@
-
 # mostrar la fecha de un evento almacenada en una tupla
 
 import datetime
