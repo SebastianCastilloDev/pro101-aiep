@@ -46,7 +46,7 @@ for archivo in lista_archivos:
             texto = "[" + archivo + "]" + \
                 "(/Youtube-ejercicios/" + archivo + ")" + \
                 ': ' + contenido_primera_linea
-            texto_readme = texto_readme + texto + '\n'
+            texto_readme = texto_readme + texto + '\r'
         archivo_leido.close()
 
 # print(lista_archivos)
