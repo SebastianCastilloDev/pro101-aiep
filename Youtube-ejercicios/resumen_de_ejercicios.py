@@ -11,7 +11,7 @@ texto_readme = """
 # Resumen de ejercicios 
 
 Este archivo README, ha sido generado con el archivo "resumen_de_ejercicios.py"
-Su función es listar los enunciados de los ejercicios
+Su función es listar los enunciados de los ejercicios. Es IMPORTANTE que este archivo sea ejecutado dentro de la misma carpeta en la que se encuentran los archivos
 Adicionalmente va acompañado de dos archivos más:
 1. "creadordearchivos.py": Genera archivos con el formato '0'*n.py . Si el archivo ya existe, entonces no lo reemplaza.
 2. "modificadordenombresdearchivo.py": Modifica los nombres de archivos con aspecto numerico y les da un formato tipo '0'*n.py y lo renombra.

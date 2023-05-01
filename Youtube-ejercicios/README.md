@@ -2,7 +2,7 @@
 # Resumen de ejercicios 
 
 Este archivo README, ha sido generado con el archivo "resumen_de_ejercicios.py"
-Su función es listar los enunciados de los ejercicios
+Su función es listar los enunciados de los ejercicios. Es IMPORTANTE que este archivo sea ejecutado dentro de la misma carpeta en la que se encuentran los archivos
 Adicionalmente va acompañado de dos archivos más:
 1. "creadordearchivos.py": Genera archivos con el formato '0'*n.py . Si el archivo ya existe, entonces no lo reemplaza.
 2. "modificadordenombresdearchivo.py": Modifica los nombres de archivos con aspecto numerico y les da un formato tipo '0'*n.py y lo renombra.
@@ -92,3 +92,26 @@ Por tanto se debe colocar la descripcion del ejercicio en la primera linea de ca
 * [0075.py](0075.py): # Python - Ejercicio 75: Obtener la Información de Derechos de Autor de un Módulo
 * [0076.py](0076.py): # Python - Ejercicio 76: Obtener los Argumentos de Línea de Comandos
 * [0077.py](0077.py): # Python - Ejercicio 77: Determinar el Orden de los Bytes en la Arquitectura de Ejecución Actual
+* [0078.py](0078.py): # Python - Ejercicio 78: Obtener el Listado de los Módulos Incorporados Disponibles
+* [0079.py](0079.py): # Python - Ejercicio 79: Obtener le Tamaño en Bytes de un Objeto
+* [0080.py](0080.py): # Python - Ejercicio 80: Obtener el Valor Límite de Recursión
+* [0081.py](0081.py): # Python - Ejercicio 81: Concatenar una n Cantidad de Cadenas de Caracteres con join
+* [0082.py](0082.py): # Python - Ejercicio 82: Calcular la Suma de los Elementos de un Objeto Iterable
+* [0083.py](0083.py): # Python - Ejercicio 83: Comprobar si Todos los Elementos de una Lista Cumplen una Condición
+* [0084.py](0084.py): # Python - Ejercicio 84: Contar la Cantidad de Ocurrencias de un Carácter en una Cadena de Caracteres
+* [0085.py](0085.py): # Python - Ejercicio 85: Comprobar si una Ruta es un Directorio o un Archivo
+* [0086.py](0086.py): # Python - Ejercicio 86: Obtener el Valor Numérico de un Carácter Numérico ASCII
+* [0087.py](0087.py): # Python - Ejercicio 87: Obtener el Tamaño en Bytes de un Archivo
+* [0088.py](0088.py): # Python - Ejercicio 88: Formatear la Salida de una Cadena de Caracteres
+* [0089.py](0089.py): # Python - Ejercicio 89: Generar Números Aleatorios y Verificar que Todos sean Impares
+* [0090.py](0090.py): # Python - Ejercicio 90: Generar n Cantidad de Números Primos Consecutivos
+* [0091.py](0091.py): # Python - Ejercicio 91: Alternar el Contenido de Dos Variables
+* [0092.py](0092.py): # Python - Ejercicio 92: Filtrar Números por medio de la Función filter
+* [0093.py](0093.py): # Python - Ejercicio 93: Obtener el Número de ID de un Objeto por medio de la Función id
+* [0094.py](0094.py): # Python - Ejercicio 94: Convertir una Cadena de Bytes en una Lista de Enteros
+* [0095.py](0095.py): # Python - Ejercicio 95: Validar si una Cadena de Caracteres Representa un Número
+* [0096.py](0096.py): # Python - Ejercicio 96: Imprimir el Estado de la Pila de Llamadas
+* [0097.py](0097.py): # Python - Ejercicio 97: Imprimir el Listado de Variables Especiales que Usa Python
+* [0098.py](0098.py): # Python - Ejercicio 98: Obtener la Fecha y Hora del Sistema con el Módulo time
+* [0099.py](0099.py): # Python - Ejercicio 99: Limpiar la Pantalla o Terminal en Windows u Otras Plataformas Operacionales
+* [0100.py](0100.py): # Python - Ejercicio 100: Obtener el Nombre del Host donde se Ejecuta un Script
