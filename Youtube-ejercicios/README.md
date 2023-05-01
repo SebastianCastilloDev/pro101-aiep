@@ -29,7 +29,7 @@ Por tanto se debe colocar la descripcion del ejercicio en la primera linea de ca
 * [0012.py](0012.py): # imprimir calendario para año y mes dado
 * [0013.py](0013.py): # str multilinea
 * [0014.py](0014.py): # ejercicio 14: calcular la diferencia ej dias de dos fechas dadas
-* [0015.py](0015.py): # vol esfera
+* [0015.py](0015.py): # Ejercicio 15: Calcular el volumen de una esfera
 * [0016.py](0016.py): # calcular con condiciones
 * [0017.py](0017.py): #  determinar si es cercano a 1000 o 2000
 * [0018.py](0018.py): # calcular la suma de tres numeros, incluir una condicion de igualdad
@@ -115,3 +115,20 @@ Por tanto se debe colocar la descripcion del ejercicio en la primera linea de ca
 * [0098.py](0098.py): # Python - Ejercicio 98: Obtener la Fecha y Hora del Sistema con el Módulo time
 * [0099.py](0099.py): # Python - Ejercicio 99: Limpiar la Pantalla o Terminal en Windows u Otras Plataformas Operacionales
 * [0100.py](0100.py): # Python - Ejercicio 100: Obtener el Nombre del Host donde se Ejecuta un Script
+* [0101.py](0101.py): # Python - Ejercicio 101: Acceder a una URL e Imprimir su Contenido HTML
+* [0102.py](0102.py): # Python - Ejercicio 102: Mostrar el Contenido de un Directorio por Medio de subprocess
+* [0103.py](0103.py): # Python - Ejercicio 102: Mostrar el Contenido de un Directorio por Medio de subprocess
+* [0104.py](0104.py): # Python - Ejercicio 104: Obtener el ID de Usuario, Grupo e IDs de Grupos Complementarios
+* [0105.py](0105.py): # Python - Ejercicio 105: Obtener la Configuración de un Usuario en el Sistema Operativo
+* [0106.py](0106.py): # Python - Ejercicio 106: Separar la Ruta de la Extensión de Archivo
+* [0107.py](0107.py): # Python - Ejercicio 107: Obtener las Propiedades Básicas de un Archivo
+* [0108.py](0108.py): # Python - Ejercicio 108: Consultar Propiedades de Archivos y Directorios
+* [0109.py](0109.py): # Python - Ejercicio 109: Obtener el Valor de una Variable de Entorno
+* [0110.py](0110.py): # Python - Ejercicio 110: Obtener los Números Divisibles por 7 usando una Función Anónima
+* [0111.py](0111.py): # Python - Ejercicio 111: Seleccionar Archivos de un Tipo Específico
+* [0112.py](0112.py): # Python - Ejercicio 112: Eliminar un Elemento Específico de una Lista con del
+* [0113.py](0113.py): # Python - Ejercicio 113: Validar si un Número Ingresado por el Usuario es Válido
+* [0114.py](0114.py): # Python - Ejercicio 114: Usar la Función filter para Obtener los Números Positivos de una Lista
+* [0115.py](0115.py): # Python - Ejercicio 115: Calcular el Producto de los Elementos de una Lista sin Usar un Ciclo for
+* [0116.py](0116.py): # Python - Ejercicio 116: Crear Representación de Caracteres en Estándar Unicode
+* [0117.py](0117.py): # Python - Ejercicio 117: Validar que Dos Cadenas de Caracteres Tienen la Misma Ubicación en Memoria
