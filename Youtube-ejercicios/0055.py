@@ -1,4 +1,4 @@
-# convertir binario a entero
+# Ejercicio 55: convertir binario a entero
 
 # 1*2^3 + 0*2^2 + 0*2^1 + 1*2^0
 from os import system
