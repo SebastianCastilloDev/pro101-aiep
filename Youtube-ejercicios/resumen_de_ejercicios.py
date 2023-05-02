@@ -8,7 +8,7 @@ ruta = getcwd()
 
 readme = open('README.md', 'w')
 texto_readme = """
-# Resumen de ejercicios 
+# Resumen de ejercicios (Inspirado en el canal https://www.youtube.com/@JohnOrtizOrdonez)
 
 Este archivo README, ha sido generado con el archivo "resumen_de_ejercicios.py"
 Su función es listar los enunciados de los ejercicios. Es IMPORTANTE que este archivo sea ejecutado dentro de la misma carpeta en la que se encuentran los archivos
