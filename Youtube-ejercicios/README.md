@@ -1,5 +1,5 @@
 
-# Resumen de ejercicios 
+# Resumen de ejercicios (Inspirado en el canal https://www.youtube.com/@JohnOrtizOrdonez)
 
 Este archivo README, ha sido generado con el archivo "resumen_de_ejercicios.py"
 Su función es listar los enunciados de los ejercicios. Es IMPORTANTE que este archivo sea ejecutado dentro de la misma carpeta en la que se encuentran los archivos
@@ -132,3 +132,62 @@ Por tanto se debe colocar la descripcion del ejercicio en la primera linea de ca
 * [0115.py](0115.py): # Python - Ejercicio 115: Calcular el Producto de los Elementos de una Lista sin Usar un Ciclo for
 * [0116.py](0116.py): # Python - Ejercicio 116: Crear Representación de Caracteres en Estándar Unicode
 * [0117.py](0117.py): # Python - Ejercicio 117: Validar que Dos Cadenas de Caracteres Tienen la Misma Ubicación en Memoria
+* [0118.py](0118.py): # Python - Ejercicio 118: Crear la Representación en Cadena de Bytes desde una Cadena de Caracteres
+* [0119.py](0119.py): # Python - Ejercicio 119: Formatear la Salida de un Número de Punto Flotante (float)
+* [0120.py](0120.py): # Python - Ejercicio 120: Limitar la Visualización del Número de Caracteres de una Cadena
+* [0121.py](0121.py): # Python - Ejercicio 121: Determinar si una Variable Está Definida o No
+* [0122.py](0122.py): # Python - Ejercicio 122: Gestión de una Excepción Tipo Aritmética
+* [0123.py](0123.py): # Python - Ejercicio 123: Mostrar Información de las Capacidades de los Tipos de Datos Numéricos
+* [0124.py](0124.py): # Python - Ejercicio 124: Comprobar si Múltiples Variables Contienen el Mismo Valor
+* [0125.py](0125.py): # Python - Ejercicio 125: Computar la Suma de los Conteos de los Duplicados de una Lista
+* [0126.py](0126.py): # Python - Ejercicio 126: Encontrar el Módulo al que Pertenece un Elemento de Programa
+* [0127.py](0127.py): # Python - Ejercicio 127: Comprobar si Elemento de Programa Dado es una Clase
+* [0128.py](0128.py): # Python - Ejercicio 128: Comprobar si un Carácter Específico se Encuentra en una Cadena de Caracteres
+* [0129.py](0129.py): # Python - Ejercicio 129: Rellenar una Cadena de Caracteres con un Carácter Específico
+* [0130.py](0130.py): # Python - Ejercicio 130: Determinar si una Función Dada es una Función Generadora
+* [0131.py](0131.py): # Python - Ejercicio 131: Crear Variables a partir de los Valores de una Lista
+* [0132.py](0132.py): # Python - Ejercicio 132: Obtener la Ruta Absoluta del Usuario Actual
+* [0133.py](0133.py): # Python - Ejercicio 133: Calcular el Tiempo de Ejecución de una Función
+* [0134.py](0134.py): # Python - Ejercicio 134: Capturar Datos Enteros en una Única Línea de Código
+* [0135.py](0135.py): # Python - Ejercicio 135: Comprobar si un Elemento de Programa es Generador
+* [0136.py](0136.py): # Python - Ejercicio 136: Excluir Directorios de un Listado de Archivos y Carpetas
+* [0137.py](0137.py): # Python - Ejercicio 137: Extraer un Único Elemento (Llave y Valor) de un Diccionario
+* [0138.py](0138.py): # Python - Ejercicio 138: Convertir Valores Lógicos a Valores Enteros
+* [0139.py](0139.py): # Python - Ejercicio 139: Validar si una Dirección IP es Válida
+* [0140.py](0140.py): # Python - Ejercicio 140: Convertir un Número Entero a Binario
+* [0141.py](0141.py): # Python - Ejercicio 141: Convertir un Número Decimal a un Número Hexadecimal
+* [0142.py](0142.py): # Python - Ejercicio 142: Obtener los Datos Básicos de la Plataforma Operacional
+* [0143.py](0143.py): # Python - Ejercicio 143: Detectar el Modo del Sistema Operativo (32 ó 64 bits)
+* [0144.py](0144.py): # Python - Ejercicio 144: Comprobar si una Variable es Entero o Cadena de Caracteres
+* [0145.py](0145.py): # Python - Ejercicio 145: Determinar si una Variable es una Lista, Tupla, o un Conjunto
+* [0146.py](0146.py): # Python - Ejercicio 146: Encontrar las Rutas Donde se Hallan las Fuentes de los Módulos Python
+* [0147.py](0147.py): # Python - Ejercicio 147: Comprobar si un Número es Múltiplo de Otro
+* [0148.py](0148.py): # Python - Ejercicio 148: Encontrar el Mínimo y el Máximo de una Lista sin Usar Funciones Existentes
+* [0149.py](0149.py): # Python - Ejercicio 149: Calcular la Suma del Cubo de cada Número Menor a un Número n Dado
+* [0150.py](0150.py): # Python - Ejercicio 150: Comprobar si Existe al Menos un Producto Impar entre una Lista de Números
+* [0151.py](0151.py): # Python - Ejercicio 151: Comprobar si Todos los Elementos de una Lista son Distintos
+* [0152.py](0152.py): # Python - Ejercicio 152: Aleatorizar las Vocalese Almacenadas en una Lista
+* [0153.py](0153.py): # Python - Ejercicio 153: Eliminar Cada i-ésimo Elemento de una Lista
+* [0154.py](0154.py): # Python - Ejercicio 154: Obtener las Tripletas de Números Diferentes Cuya Suma es Cero
+* [0155.py](0155.py): # Python - Ejercicio 155: Uso del Método zfill para Rellenar una Cadena de Caracteres con Ceros
+* [0156.py](0156.py): # Python - Ejercicio 156: Contar el Número de Ocurrencias de las Palabras en una Frase o Párrafo
+* [0157.py](0157.py): # Python - Ejercicio 157: Contar las Ocurrencias de las Letras en un Archivo de Texto Plano
+* [0158.py](0158.py): # Python - Ejercicio 158: Instalar la Librería Python Beautiful Soup 4
+* [0159.py](0159.py): # Python - Ejercicio 159: Obtener las Últimas Noticias desde Google News con Beautiful Soup 4
+* [0160.py](0160.py): # Python - Ejercicio 160: Mostrar el Listado de Todos los Módulos Instalados Localmente
+* [0161.py](0161.py): # Python - Ejercicio 161: Obtener Información del Sistema Operativo donde se Ejecuta un Script Python
+* [0162.py](0162.py): # Python - Ejercicio 162: Determinar si la Suma de los Elementos de una Lista es Igual a un Número
+* [0163.py](0163.py): # Python - Ejercicio 163: Generar Combinaciones por Medio del Módulo itertools
+* [0164.py](0164.py): # Python - Ejercicio 164: Crear un Demostración de Gráficos de Tortuga
+* [0165.py](0165.py): # Python - Ejercicio 165: Calcular la Suma de Dos Números usando operadores de bits
+* [0166.py](0166.py): # Python - Ejercicio 166: Validar la Prioridad de los Operadores Suma, Resta, Producto y División
+* [0167.py](0167.py): #  Python - Ejercicio 167: Calcular el Tercer Lado de un Triángulo Rectángulo Dados Dos de sus Lados
+* [0168.py](0168.py): # Python - Ejercicio 168: Uso Básico del Operador de Asignación Walrus de Python 3.8.0
+* [0169.py](0169.py): # Python - Ejercicio 169: Uso de Parámetros Sólo Posicionales en Python 3.8.0
+* [0170.py](0170.py): # Python - Ejercicio 170: Encontrar el Valor de posicion Media Entre Tres Números
+* [0171.py](0171.py): # Python - Ejercicio 172: Explorar el Nuevo Soporte para Depuración por medio de f-strings
+* [0172.py](0172.py): # Python - Ejercicio 172: Explorar el Nuevo Soporte para Depuración por medio de f-strings
+* [0173.py](0173.py): # " Python - Ejercicio 173: Calcular la Cantidad Mínima de Monedas para el Cambio de una Compra
+* [0174.py](0174.py): # Python - Ejercicio 174: Calcular el n-ésimo Término de una Secuencia
+* [0175.py](0175.py): # Python - Ejercicio 175: Reducir un Número por medio de la Suma de sus Dígitos
+* [0176.py](0176.py): # Python - Ejercicio 176: Contar la Cantidad de Divisores de un Número Entero Positivo
