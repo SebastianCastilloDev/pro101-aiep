@@ -191,3 +191,40 @@ Por tanto se debe colocar la descripcion del ejercicio en la primera linea de ca
 * [0174.py](0174.py): # Python - Ejercicio 174: Calcular el n-ésimo Término de una Secuencia
 * [0175.py](0175.py): # Python - Ejercicio 175: Reducir un Número por medio de la Suma de sus Dígitos
 * [0176.py](0176.py): # Python - Ejercicio 176: Contar la Cantidad de Divisores de un Número Entero Positivo
+* [0177.py](0177.py): # Python - Ejercicio 177: Encontrar los Dígitos Faltantes entre (0-9) de un Número
+* [0178.py](0178.py): # Python - Ejercicio 178: Computar la Suma del Valor Absoluto de Pares de Elementos de una Lista, los elementos deben estar ordenados de forma ascendente
+* [0179.py](0179.py): # Python - Ejercicio 179: Identificar el Tipo de Progresión (Aritmética o Geométrica) de una Lista
+* [0180.py](0180.py): # Python - Ejercicio 180: Encontrar los 3 Edificios Más Altos dentro de un Conjunto de 10 Edificios
+* [0181.py](0181.py): # Python - Ejercicio 181: Calcular la Suma de los Dígitos de Dos Números
+* [0182.py](0182.py): # Python - Ejercicio 182: Determinar el Tipo de Triángulo (Isósceles, Escaleno, Equilatero)
+* [0183.py](0183.py): # Python - Ejercicio 183: Resolver un Sistema de Ecuaciones Lineales
+* [0184.py](0184.py): # Python - Ejercicio 184: Uso de la Función accumulate de itertools en Python 3.8.0
+* [0185.py](0185.py): # Python - Ejercicio 185: Encontrar los Números Primos Menores a un Número n Específico
+* [0186.py](0186.py): # Python - Ejercicio 186: Calcular la Distancia Euclidiana con math.dist de Python 3.8.0
+* [0187.py](0187.py): # Python - Ejercicio 187: Uso de las Funciones mean y fmean del Módulo statistics
+* [0188.py](0188.py): # Python - Ejercicio 188: Calcular la Moda de un Conjunto de Datos Numéricos o Nominales
+* [0189.py](0189.py): # Python - Ejercicio 189: Comprobar si Dos Números (o su Suma) Superan los 80 Dígitos
+* [0190.py](0190.py): # Python - Ejercicio 190: Ordenar un Conjunto de Datos Numéricos de Forma Descendente
+* [0191.py](0191.py): # Python - Ejercicio 191: Obtener Múltiples Modas desde un Conjunto de Datos Numéricos o Nominales
+* [0192.py](0192.py): # Python - Ejercicio 192: Calcular la Media Geométirca y la Media Armónica con el Módulo statistics
+* [0193.py](0193.py): # Python - Ejercicio 193: Calcular el Área y la Circunferencia de un Círculo de Radio r
+* [0194.py](0194.py): # Python - Ejercicio 194: Encontrar el Nombre del Día a partir de una Fecha Dada
+* [0195.py](0195.py): # Python - Ejercicio 195: Encontrar la Palabra Más Frecuente y la Palabra Más Larga
+* [0196.py](0196.py): # Python - Ejercicio 196: Encontrar Una o Más Combinaciones de Tamaño n que Suman un Valor Dado
+* [0197.py](0197.py): # Python - Ejercicio 197: Decir si Dos Lados Adyacentes y una Diagonal son parte de un Paralelogramo
+* [0198.py](0198.py): # Python - Ejercicio 198: Alternar la Posición de Dos Palabras Específicas en una Cadena de Caracteres
+* [0199.py](0199.py): # Python - Ejercicio 199: Parte 1/2 - Diferencia entre el Menor y Mayor de un Número de 9 Dígitos
+* [0200.py](0200.py): # Python - Ejercicio 200: Calcular la Suma de los Números Primos Existentes entre 2 y 100
+* [0201.py](0201.py): # Python - Ejercicio 201: Representar Números como Fracciones con la Clase Fraction
+* [0202.py](0202.py): # Python - Ejercicio 202: Obtener el Numerador y el Denominador de un Objeto Fraction
+* [0203.py](0203.py): # Python - Ejercicio 203: Crear una Fracción a partir de un Número Decimal o Punto Flotante
+* [0204.py](0204.py): # Python - Ejercicio 204: Sumar Todos los Números que Aparecen en una Cadena de Caracteres
+* [0205.py](0205.py): # Python - Ejercicio 205: Uso de la Función Incorporada license
+* [0206.py](0206.py): # Python - Ejercicio 206: Mostrar los Créditos de Python con la Función Incorporada credits
+* [0207.py](0207.py): # Python - Ejercicio 207: Restaurar un Texto a partir de la Versión Acortada del Texto
+* [0208.py](0208.py): # Python - Ejercicio 208: Calcular el Área de un Polígono Regular Dados el Número de Lados
+* [0209.py](0209.py): # Python - Ejercicio 209: Obtener Sólo las Palabras de Longitud de 3 a 6 Caracteres
+* [0210.py](0210.py): # Python - Ejercicio 210: Comprobar si una Palabra o Frase es Palíndromo
+* [0211.py](0211.py): # Python - Ejercicio 211: Invertir una Cadena de Caracteres
+* [0212.py](0212.py): # Python - Ejercicio 212: Parte 1/2: Sumar Filas y Columnas de una Matriz y Crear Matriz Resultante
+* [0213.py](0213.py): # Python - Ejercicio 213: Crear una Función para Computar la Longitud de un Texto sin Usar len

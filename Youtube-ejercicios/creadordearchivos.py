@@ -6,8 +6,8 @@ from os import getcwd
 from os.path import isfile, join
 
 digitos = 4
-desde = 201
-hasta = 210
+desde = 202
+hasta = 250
 
 # Listar los archivos del directorio
 ruta = getcwd()
